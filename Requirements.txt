@@ -1,0 +1,14 @@
+Requirements:
+1. Pycharm should be downloaded
+2. Plugins required:
+        i. openai
+        ii. SpeechRecognition
+        iii. pyttsx3
+        iv. open ai key
+video reference for getting openai key:
+
+ https://www.bing.com/videos/search?q=how+to+get+openai+api+key&qpvt=how+to+get+openai+api+key&view=detail&mid=19AEC1DC4166A29A1F0219AEC1DC4166A29A1F02&&FORM=VRDGAR
+
+3. microphone
+4. speaker (optional)
+
