@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zero2Jobready
+- 👋 Hi, I’m Vaibhav
 - 👀 I’m interested in Python projects
 - 🌱 I’m currently learning python, html, css, JavaScript(For making web application)
 - 💞️ I’m looking to collaborate on making projects like chatbot, 
