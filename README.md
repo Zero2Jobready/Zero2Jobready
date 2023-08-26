@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python projects
 - 🌱 I’m currently learning python, html, css, JavaScript(For making web application)
 - 💞️ I’m looking to collaborate on making projects like chatbot, 
-- 📫 How to reach me email:vaibhavgreat16year@gmail.com
+- 📫 How to reach me reddiy: /uEyeliner16Visuals 
 
 <!---
 Zero2Jobready/Zero2Jobready is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
